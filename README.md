@@ -1,4 +1,4 @@
-# minigpt
+# Minigpt
 
 Official pip package for the MiniGPT series.
 
