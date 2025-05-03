@@ -1,9 +1,9 @@
-# Minigpt
+# minigpt
 
 Official pip package for the MiniGPT series.
 
 ```bash
-pip install minigpt
+pip install minigptai
 ```
 
 ```python
