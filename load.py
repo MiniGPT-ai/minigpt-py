@@ -5,7 +5,7 @@ from .config import MiniGPTConfig
 from .model import MiniGPTModel
 
 BASE_URL = "https://github.com/MiniGPT-ai/MiniGPT/releases/download"
-CACHE_DIR = os.path.expanduser("~/.cache/minigpt")
+CACHE_DIR = os.path.expanduser("~/.cache/minigptai")
 
 MODEL_VERSIONS = {
     "minigpt0-preview": {
